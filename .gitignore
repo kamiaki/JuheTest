@@ -1,0 +1,3 @@
+# Project exclude paths
+/aki-service/common/target/
+/aki-web/webappp/target/
